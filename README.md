@@ -12,6 +12,6 @@ own usecases, go ahead!
 <details>
   <summary>Hypixel-specific</summary>
 
-Special chat channels: `(?<type>\w+) > (?<message>.+)`
+* Special chat channels: `(?<type>\w+) > (?<message>.+)`
 
 </details>
