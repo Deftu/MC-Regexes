@@ -15,6 +15,6 @@ own usecases, go ahead!
   <summary>Hypixel-specific</summary>
 
 * Special chat channels: `(?<type>\w+) > (?<message>.+)`
-* Direct messages: `(?<type>(From|To)) (?:\[(?<rank>.+)\] |)(?<username>.+): (?<message>.+)`
+* Direct messages: `(?<type>(From|To)) (\[(?<rank>.+)\] )?(?<username>.+): (?<message>.+)`
 
 </details>
